@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Padelis</h1>
+
 - 🌱 I’m currently learning **more about Web and Android Developing**
 
 - 📫 How to reach me
